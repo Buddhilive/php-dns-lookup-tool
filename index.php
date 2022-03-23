@@ -17,5 +17,6 @@
         value=""
       />
     </form>
+    <div>Your IP Address: <?php echo $_SERVER['REMOTE_ADDR']; ?></div>
   </body>
 </html>
